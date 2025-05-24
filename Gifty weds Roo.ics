@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Wedding Invitation//EN
+BEGIN:VEVENT
+UID:wedding-antoben-gifty-rooban@example.com
+DTSTAMP:20250524T103000Z
+DTSTART:20250903T093000Z
+DTEND:20250903T110000Z
+SUMMARY:Wedding of Antoben Gifty & Rooban
+LOCATION:Santhome Cathedral Basilica, Mylapore, Chennai
+DESCRIPTION:Join us for a celebration of love and blessings.
+END:VEVENT
+END:VCALENDAR
